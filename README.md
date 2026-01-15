@@ -8,7 +8,7 @@
 
 **The Kill-Switch for Autonomous AI Agents.**
 
-[**▶ LIVE DEMO**](https://qantum-fortres.github.io/SENTINEL-CORE/)
+[**▶ LIVE DEMO**](https://qantum-fortres.github.io/SENTINEL-PUBLIC/)
 
 </div>
 
