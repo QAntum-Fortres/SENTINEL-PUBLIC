@@ -1,0 +1,29 @@
+SENTINEL - PROPRIETARY SOFTWARE LICENSE
+=======================================
+
+Copyright (c) 2026 QAntum Fortres. All Rights Reserved.
+
+NOTICE: This repository contains DEMONSTRATION MATERIALS ONLY.
+
+The source code, algorithms, and implementation details of SENTINEL
+(AI Governance Layer) are protected intellectual property and are
+NOT included in this repository.
+
+WHAT IS INCLUDED:
+- README.md: Project overview
+- index.html: Interactive demonstration dashboard
+
+WHAT IS NOT INCLUDED:
+- Source code (TypeScript implementations)
+- Backend algorithms (AgentMonitor, KillSwitch)
+- Security modules (SafetyToken, eBPF probes)
+
+RESTRICTIONS:
+1. You may VIEW the demonstration materials for evaluation purposes only.
+2. You may NOT reverse-engineer or derive source code.
+3. You may NOT use any materials for commercial purposes without license.
+
+For licensing, partnership, or investment inquiries, contact us via GitHub.
+
+=======================================
+SENTINEL — Control Your AI. Before It Controls You.
